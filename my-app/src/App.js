@@ -84,8 +84,3 @@ export const App = () => {
 		</div>
 	);
 };
-
-// styles['steps-item'] + ' ' + styles.done + ' ' + styles.active;
-
-// <div class="App_display__OOet2"></div>
-//operator === '=' ? 5 :
